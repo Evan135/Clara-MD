@@ -6,14 +6,14 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6285760451683', 'Zeltoria', true]
+['6285862717688', 'Zeltoria', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6285760451683'
+global.nomorwa = '6285862717688'
 global.author = '© Xyroinee'
-global.namebot = '​Clara - MD'
+global.namebot = 'Van bot'
 global.wm = '© Clara By Xyroine'
 global.stickpack = 'Clara - MD'
 global.stickauth = '© Xyroine'
@@ -30,7 +30,7 @@ global.wait = '_Sedang Di Proses, Mohon Tunggu_....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
-global.xyro = 'apikeylu'
+global.xyro = 'cXFqxqqzQa'
 // Website: https://api.xyroinee.xyz
 // Daftar Ke Website Tersebut Untuk..
 // Mendapatkan Apikey Kamu
